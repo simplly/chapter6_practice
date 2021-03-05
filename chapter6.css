@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 800px;
+}
+.a {
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.b {
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.c {
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.d {
+  width: 80%;
+  height: 200px;
+  margin: 0 auto;
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
